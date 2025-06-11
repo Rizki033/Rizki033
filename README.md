@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm RIZKI ABDELHADI</h1>
-<h3 align="center">CyberSecurity engineering student Passionate about protecting the digital world from ever-evolving threats .</h3>
+<div align="center">
+  <img height="200" src="https://www.wallpaperflare.com/static/713/727/716/mr-robot-elliot-mr-robot-tv-fsociety-wallpaper.jpg"  />
+ <h3 align="center">CyberSecurity engineering student Passionate about protecting the digital world from ever-evolving threats .</h3>
+</div>
+
+
 <div align="center">
  
 
