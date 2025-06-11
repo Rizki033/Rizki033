@@ -35,6 +35,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizki033&show_icons=true&locale=en" alt="rizki033" /></p>
 
 
+<img src="https://raw.githubusercontent.com/Rizki033/Rizki033/output/snake.svg" alt="Snake animation" />
+
 
 
 
