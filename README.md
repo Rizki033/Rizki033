@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm RIZKI ABDELHADI</h1>
 <h3 align="center">CyberSecurity engineering student Passionate about protecting the digital world from ever-evolving threats .</h3>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+ 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizki033&label=Profile%20views&color=0e75b6&style=flat" alt="rizki033" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rizki033" alt="rizki033" /></a> </p>
+ <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
 <p align="left"> <a href="https://twitter.com/rizki40109" target="blank"><img src="https://img.shields.io/twitter/follow/rizki40109?logo=twitter&style=for-the-badge" alt="rizki40109" /></a> </p>
 
