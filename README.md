@@ -1,6 +1,18 @@
 <h1 align="center">Hi 👋, I'm RIZKI ABDELHADI</h1>
 <div align="center">
-  <img height="200" src="https://www.wallpaperflare.com/static/713/727/716/mr-robot-elliot-mr-robot-tv-fsociety-wallpaper.jpg"  />
+  <p align="left"></p>
+
+###
+
+<p align="left"></p>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Rizki033/count.svg?"  />
+</div>
+
+###
  <h3 align="center">CyberSecurity engineering student Passionate about protecting the digital world from ever-evolving threats .</h3>
 </div>
 
