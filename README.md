@@ -42,12 +42,21 @@
 <a href="https://linkedin.com/in/rizki abdelhadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rizki abdelhadi" height="30" width="40" /></a>
 <a href="https://fb.com/rizki abdelhadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rizki abdelhadi" height="30" width="40" /></a>
 <a href="https://instagram.com/rizki abdelhadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rizki abdelhadi" height="30" width="40" /></a>
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"  height="30" width="40"  alt="discord logo"  />
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="30" width="40"  alt="gmail logo"  />
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg"  height="30" width="40"  alt="telegram logo"  />
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg"  height="30" width="40"  alt="whatsapp logo"  />
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg"  height="30" width="40"  alt="tryhackme logo"  />
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg"  height="30" width="40"  alt="microsoft-outlook logo"  />
+
+<a href="https://instagram.com/rizki abdelhadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" alt="rizki abdelhadi" height="30" width="40" /></a>
+
+<a href="https://instagram.com/rizki abdelhadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="rizki abdelhadi" height="30" width="40" /></a>
+
+<a href="https://instagram.com/rizki abdelhadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" alt="rizki abdelhadi" height="30" width="40" /></a>
+
+<a href="https://instagram.com/rizki abdelhadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg"  alt="rizki abdelhadi" height="30" width="40" /></a>
+
+<a href="https://instagram.com/rizki abdelhadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg"  alt="rizki abdelhadi" height="30" width="40" /></a>
+
+<a href="https://instagram.com/rizki abdelhadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg"   alt="rizki abdelhadi" height="30" width="40" /></a>
+
+<a href="https://instagram.com/rizki abdelhadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" alt="rizki abdelhadi" height="30" width="40" /></a>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
