@@ -52,7 +52,6 @@
 <a href="https://instagram.com/rizki abdelhadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" alt="rizki abdelhadi" height="30" width="40" /></a>
 
 
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"></p>
 
