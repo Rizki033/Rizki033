@@ -11,10 +11,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Rizki033/count.svg?"  />
-</div>
-
 ###
  <h3 align="center">CyberSecurity engineering student Passionate about protecting the digital world from ever-evolving threats .</h3>
 </div>
