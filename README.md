@@ -23,9 +23,6 @@
 
 </div>
 
-<p align="left"> <a href="https://twitter.com/rizki40109" target="blank"><img src="https://img.shields.io/twitter/follow/rizki40109?logo=twitter&style=for-the-badge" alt="rizki40109" /></a> </p>
-
-- 🌱 I’m currently learning **CCNA , CCNP ...**
 
 - 📫 How to reach me **rizkiabdelhadi4@gmail.com**
 
