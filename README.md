@@ -132,6 +132,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3758889" style='border:none;'></iframe>
 </div>
 
 ###
