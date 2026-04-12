@@ -40,16 +40,20 @@ status     : Open to opportunities & collaborations
 > _"The quieter you become, the more you are able to hear."_ — Kali Linux motto
 ---
 ## `cat skills.json`
-div align="center">
+
  
 [![My Skills](https://skillicons.dev/icons?i=kali,linux,bash&theme=dark)](https://skillicons.dev)
- 
-</div>
- 
-| Tool | Tool | Tool | Tool |
-|:---:|:---:|:---:|:---:|
-| ![BurpSuite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white) | ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white) | ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white) | ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white) |
-| ![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white) | ![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white) | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) | ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white) |
+
+[![My Skills](https://skillicons.dev/icons?i=python,js,java,bash,php,c,cpp&theme=dark)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=react,laravel,spring,mysql,sqlite,git,github,vscode&theme=dark)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=linux,aws,docker,ansible,nginx,bash&theme=dark)](https://skillicons.dev)
+
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) | ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white) 
+
+| ![GNS3](https://img.shields.io/badge/GNS3-00ADEF?style=for-the-badge&logo=gns3&logoColor=white) | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) |
+
 ---
 ## `./connect.sh`
 
