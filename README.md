@@ -32,7 +32,7 @@
 name       : Rizki Abdelhadi
 alias      : 0xRizki
 location   : Marrakech, Morocco 🇲🇦
-education  : Engineering Degree – IT Security @ FST Gueliz (2024–2027)
+education  : Engineering Degree – IT Security 
 focus      : Ethical Hacking • Penetration Testing • AI + Cybersecurity
 status     : Open to opportunities & collaborations 
 ```
