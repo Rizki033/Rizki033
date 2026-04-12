@@ -70,18 +70,6 @@ status     : Open to opportunities & collaborations 🚀
 
 ---
 
-## `ls ./experience/`
-
-| # | Role | Organization | Period |
-|---|------|-------------|--------|
-| 🔴 | Ingenieur Cybersécurité Junior | **EMAN Aerospace** | mars 2026 – Present |
-| 🟠 | Bug Bounty Hunter | **Bugcrowd** | janv. 2026 – Present |
-| 🟣 | Independent Security Researcher | **HackerOne** | janv. 2026 – Present |
-| 🟢 | CTF Player – Red Team Practice | **TryHackMe** | janv. 2025 – Present |
-| 💙 | Member & DevFest 2025 Volunteer | **GDG Marrakech** | Dec 2025 – Present |
-
----
-
 ## `nmap -sV github_stats`
 
 <div align="center">
