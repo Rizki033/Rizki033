@@ -42,17 +42,7 @@ status     : Open to opportunities & collaborations
 ## `cat skills.json`
 
  
-[![My Skills](https://skillicons.dev/icons?i=kali,linux,bash&theme=dark)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=python,js,java,bash,php,c,cpp&theme=dark)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=react,laravel,spring,mysql,sqlite,git,github,vscode&theme=dark)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=linux,aws,docker,ansible,nginx,bash&theme=dark)](https://skillicons.dev)
-
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) | ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white) 
-
-| ![GNS3](https://img.shields.io/badge/GNS3-00ADEF?style=for-the-badge&logo=gns3&logoColor=white) | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) |
+[![My Skills](https://skillicons.dev/icons?i=kali,linux,bash&theme=dark)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=python,js,java,bash,php,c,cpp&theme=dark)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=react,laravel,spring,mysql,sqlite,git,github,vscode&theme=dark)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=linux,aws,docker,ansible,nginx,bash&theme=dark)](https://skillicons.dev)
 
 ---
 ## `./connect.sh`
