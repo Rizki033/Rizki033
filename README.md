@@ -42,7 +42,7 @@ status     : Open to opportunities & collaborations
 ## `cat skills.json`
 
  
-[![My Skills](https://skillicons.dev/icons?i=kali,linux,bash&theme=dark)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=python,js,java,bash,php,laravel,react,c,cpp&theme=dark)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=react,laravel,spring,mysql,sqlite,git,github,vscode&theme=dark)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=linux,aws,docker,ansible,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kali,linux,bash,python,git,github,docker&theme=dark)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,laravel,nodejs,mysql&theme=dark)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,ansible,terraform,linux,git&theme=dark)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,go,php&theme=dark)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=vscode,idea,postman,git,github,figma,linux&theme=dark)](https://skillicons.dev)
 
 ---
 ## `./connect.sh`
