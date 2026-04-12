@@ -38,7 +38,18 @@ status     : Open to opportunities & collaborations
 ```
 
 > _"The quieter you become, the more you are able to hear."_ — Kali Linux motto
-
+---
+## `cat skills.json`
+div align="center">
+ 
+[![My Skills](https://skillicons.dev/icons?i=kali,linux,bash&theme=dark)](https://skillicons.dev)
+ 
+</div>
+ 
+| Tool | Tool | Tool | Tool |
+|:---:|:---:|:---:|:---:|
+| ![BurpSuite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white) | ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white) | ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white) | ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white) |
+| ![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white) | ![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white) | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) | ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white) |
 ---
 ## `./connect.sh`
 
