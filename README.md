@@ -60,9 +60,9 @@ status     : Open to opportunities & collaborations
 
 ```
 ┌──(0xRizki㉿kali)-[~]
-                                       └─$ echo "Thanks for visiting Let's secure the web together "
+                                        └─$ echo "Thanks for visiting Let's secure the web together "
 
-Thanks for visiting Let's secure the web together 
+                                          Thanks for visiting Let's secure the web together 
 ```
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rizki033&color=00ff88&style=flat-square&label=Profile+Views)
