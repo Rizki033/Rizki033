@@ -15,7 +15,7 @@
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&width=600&lines=Cybersecurity+Engineering+Student+%F0%9F%94%90;Ethical+Hacker+%7C+Bug+Bounty+Hunter+%F0%9F%90%9B;CTF+Player+%7C+TryHackMe+Top+6%25+%F0%9F%8F%86;AI+%2B+Cybersecurity+Enthusiast+%F0%9F%A4%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&width=600&lines=Cybersecurity+Engineering+Student+;Ethical+Hacker+%7C+Bug+Bounty+Hunter+;CTF+Player+%7C+TryHackMe+Top+6%25+%F0%9F%8F%86;AI+%2B+Cybersecurity+Enthusiast+)](https://git.io/typing-svg)
 
 </div>
 
