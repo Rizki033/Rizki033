@@ -44,11 +44,6 @@ status     : Open to opportunities & collaborations
 ## `nmap -sV github_stats`
 
 <div align="center">
-
-![Rizki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rizki033&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rizki033&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Rizki033&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&dates=6e7681)
 
 </div>
