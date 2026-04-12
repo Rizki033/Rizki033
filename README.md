@@ -40,15 +40,6 @@ status     : Open to opportunities & collaborations
 > _"The quieter you become, the more you are able to hear."_ — Kali Linux motto
 
 ---
-
-## `nmap -sV github_stats`
-
-<div align="center">
-![GitHub Streak](https://streak-stats.demolab.com?user=Rizki033&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&dates=6e7681)
-
-</div>
-
----
 ## `./connect.sh`
 
 <div align="center">
@@ -67,9 +58,9 @@ status     : Open to opportunities & collaborations
 
 ```
 ┌──(0xRizki㉿kali)-[~]
-└─$ echo "Thanks for visiting! Let's secure the web together 🔐"
+└─$ echo "Thanks for visiting! Let's secure the web together "
 
-Thanks for visiting! Let's secure the web together 🔐
+Thanks for visiting Let's secure the web together 
 ```
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rizki033&color=00ff88&style=flat-square&label=Profile+Views)
