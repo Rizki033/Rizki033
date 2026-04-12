@@ -52,9 +52,3 @@ status     : Open to opportunities & collaborations
 
 </div>
 
----
-
-<div align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=Rizki033&color=00ff88&style=flat-square&label=Profile+Views)
-
-</div>
