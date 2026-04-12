@@ -56,9 +56,13 @@ status     : Open to opportunities & collaborations
 
 <div align="center">
 
+
+
 ```
+
+
 ┌──(0xRizki㉿kali)-[~]
-└─$ echo "Thanks for visiting! Let's secure the web together "
+└─$ echo "Thanks for visiting Let's secure the web together "
 
 Thanks for visiting Let's secure the web together 
 ```
