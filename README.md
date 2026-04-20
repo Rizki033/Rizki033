@@ -11,11 +11,10 @@
 ║    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝            ║
 ║                                                               ║
 ║              Cybersecurity Engineering Student                ║
-║                   Ethical Hacker • CTF Player                 ║
+║                                                               ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&width=600&lines=Cybersecurity+Engineering+Student+;Ethical+Hacker+%7C+Bug+Bounty+Hunter+;CTF+Player+%7C+TryHackMe+Top+6%25+%F0%9F%8F%86;AI+%2B+Cybersecurity+Enthusiast+)](https://git.io/typing-svg)
 
 </div>
 
