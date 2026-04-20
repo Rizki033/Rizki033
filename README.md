@@ -35,8 +35,6 @@ education  : Engineering Degree – IT Security
 focus      : Ethical Hacking • Penetration Testing • AI + Cybersecurity
 status     : Open to opportunities & collaborations 
 ```
-
-> _"The quieter you become, the more you are able to hear."_ — Kali Linux motto
 ---
 ## `cat skills.json`
 
