@@ -11,15 +11,6 @@
 
 </div>
 
----
-
-## `whoami`
-
-```bash
-┌──(0xRizki㉿kali)-[~]
-└─$ cat about.txt
-```
-
 ```yaml
 name       : Rizki Abdelhadi
 alias      : 0xRizki
@@ -29,7 +20,6 @@ focus      : Ethical Hacking • Penetration Testing • AI + Cybersecurity
 status     : Open to opportunities & collaborations 
 ```
 ---
-## `cat skills.json`
 
  
 [![My Skills](https://skillicons.dev/icons?i=kali,linux,bash,html,css,js,nodejs,react,laravel,python,mysql,docker,git,github&theme=dark)](https://skillicons.dev) 
