@@ -11,18 +11,18 @@
 ```bash
 ┌──(0xRizki㉿kali)-[~]
 └─$ whoami
-
+ 
   ██████╗ ██╗  ██╗██████╗ ██╗███████╗██╗  ██╗██╗
   ██╔══██╗╚██╗██╔╝██╔══██╗██║╚══███╔╝██║ ██╔╝██║
   ██║  ██║ ╚███╔╝ ██████╔╝██║  ███╔╝ █████╔╝ ██║
   ██║  ██║ ██╔██╗ ██╔══██╗██║ ███╔╝  ██╔═██╗ ██║
   ██████╔╝██╔╝ ██╗██║  ██║██║███████╗██║  ██╗██║
   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝
-
+ 
 [+] Cybersecurity Engineering Student
 [+] Ethical Hacker | Penetration Tester | AI + Security
 [+] Location: Marrakech, Morocco 🇲🇦
-[+] Status: Open to opportunities & collaborations ✅
+[+] Status: Open to opportunities & collaborations 
 ```
 
 </div>
@@ -63,43 +63,73 @@ Currently building AI-powered security tools and automation frameworks.
 ---
 
 ## `> ls /skills/offensive/`
-
-### 🔴 Red Team & Pentesting
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-00467F?style=for-the-badge&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Hydra](https://img.shields.io/badge/Hydra-CC0000?style=for-the-badge&logoColor=white)
-
-### 🛡️ Defense & Intelligence
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=for-the-badge&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Snort](https://img.shields.io/badge/Snort-CC3333?style=for-the-badge&logoColor=white)
-
+ 
+### 🔴 Red Team & Pentesting Tools
+ 
+<div align="center">
+[![My Skills](https://skillicons.dev/icons?i=kali,linux,bash,vim&theme=dark)](https://skillicons.dev)
+ 
+<!-- Custom tool icons using skillicons-style flat circular badges -->
+ 
+| | Tool | Category | Use |
+|--|------|----------|-----|
+| <img src="https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat-circle&logo=burp-suite&logoColor=white"/> | **Burp Suite** | Web App Testing | Intercept, scan, exploit web apps |
+| <img src="https://img.shields.io/badge/-Metasploit-2596CD?style=flat-circle&logoColor=white"/> | **Metasploit** | Exploitation | Framework for exploit dev & delivery |
+| <img src="https://img.shields.io/badge/-Nmap-00467F?style=flat-circle&logoColor=white"/> | **Nmap** | Recon | Network scanning & host discovery |
+| <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-circle&logo=wireshark&logoColor=white"/> | **Wireshark** | Traffic Analysis | Packet capture & protocol analysis |
+| <img src="https://img.shields.io/badge/-Hydra-CC0000?style=flat-circle&logoColor=white"/> | **Hydra** | Brute Force | Login cracker for network services |
+| <img src="https://img.shields.io/badge/-Gobuster-green?style=flat-circle&logoColor=white"/> | **Gobuster** | Enumeration | Directory/DNS brute forcing |
+| <img src="https://img.shields.io/badge/-ffuf-orange?style=flat-circle&logoColor=white"/> | **ffuf** | Fuzzing | Fast web fuzzer for endpoints |
+| <img src="https://img.shields.io/badge/-SQLMap-CC0000?style=flat-circle&logoColor=white"/> | **SQLMap** | SQLi | Automated SQL injection & takeover |
+| <img src="https://img.shields.io/badge/-Nikto-6600CC?style=flat-circle&logoColor=white"/> | **Nikto** | Web Scan | Web server vulnerability scanner |
+| <img src="https://img.shields.io/badge/-Netcat-004C97?style=flat-circle&logoColor=white"/> | **Netcat** | Networking | TCP/UDP swiss army knife |
+| <img src="https://img.shields.io/badge/-Aircrack--ng-1F6FEB?style=flat-circle&logoColor=white"/> | **Aircrack-ng** | Wireless | WiFi network security auditing |
+| <img src="https://img.shields.io/badge/-John_the_Ripper-8B0000?style=flat-circle&logoColor=white"/> | **John the Ripper** | Password | Offline password hash cracker |
+| <img src="https://img.shields.io/badge/-Hashcat-FF4500?style=flat-circle&logoColor=white"/> | **Hashcat** | Password | GPU-accelerated hash cracking |
+| <img src="https://img.shields.io/badge/-Maltego-007BFF?style=flat-circle&logoColor=white"/> | **Maltego** | OSINT | Visual link analysis & OSINT |
+| <img src="https://img.shields.io/badge/-theHarvester-228B22?style=flat-circle&logoColor=white"/> | **theHarvester** | OSINT | Email/domain/IP reconnaissance |
+| <img src="https://img.shields.io/badge/-Shodan-AA0000?style=flat-circle&logoColor=white"/> | **Shodan** | OSINT | Internet-connected device search |
+| <img src="https://img.shields.io/badge/-Recon--ng-333333?style=flat-circle&logoColor=white"/> | **Recon-ng** | Recon | Full-featured web recon framework |
+| <img src="https://img.shields.io/badge/-Impacket-5C2D91?style=flat-circle&logoColor=white"/> | **Impacket** | Active Directory | AD attacks & Windows protocols |
+| <img src="https://img.shields.io/badge/-BloodHound-CC0000?style=flat-circle&logoColor=white"/> | **BloodHound** | Active Directory | AD attack path visualization |
+| <img src="https://img.shields.io/badge/-CrackMapExec-1C1C1C?style=flat-circle&logoColor=white"/> | **CrackMapExec** | Post-Exploit | Network pentesting swiss army knife |
+ 
+</div>
+### 🛡️ Defense, SOC & Threat Intelligence
+ 
+<div align="center">
+| | Tool | Category | Use |
+|--|------|----------|-----|
+| <img src="https://img.shields.io/badge/-Splunk-000000?style=flat-circle&logo=splunk&logoColor=white"/> | **Splunk** | SIEM | Log analysis & security monitoring |
+| <img src="https://img.shields.io/badge/-Snort-CC3333?style=flat-circle&logoColor=white"/> | **Snort** | IDS/IPS | Network intrusion detection system |
+| <img src="https://img.shields.io/badge/-Suricata-EF8B00?style=flat-circle&logoColor=white"/> | **Suricata** | IDS/IPS | High-perf threat detection engine |
+| <img src="https://img.shields.io/badge/-Wazuh-005571?style=flat-circle&logoColor=white"/> | **Wazuh** | SIEM/XDR | Open-source security platform |
+| <img src="https://img.shields.io/badge/-MITRE_ATT%26CK-FF0000?style=flat-circle&logoColor=white"/> | **MITRE ATT&CK** | CTI Framework | Adversary tactics & techniques |
+| <img src="https://img.shields.io/badge/-OpenCTI-003366?style=flat-circle&logoColor=white"/> | **OpenCTI** | CTI Platform | Cyber threat intelligence mgmt |
+| <img src="https://img.shields.io/badge/-YARA-1A1A2E?style=flat-circle&logoColor=white"/> | **YARA** | Malware Analysis | Malware identification rules |
+| <img src="https://img.shields.io/badge/-Volatility-6A0DAD?style=flat-circle&logoColor=white"/> | **Volatility** | Forensics | Memory forensics framework |
+| <img src="https://img.shields.io/badge/-Autopsy-2C2C2C?style=flat-circle&logoColor=white"/> | **Autopsy** | Forensics | Digital forensics platform |
+ 
+</div>
 ### 💻 Languages & Dev
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
+ 
+<div align="center">
+[![My Skills](https://skillicons.dev/icons?i=python,bash,c,java,php,mysql,js,html,css&theme=dark)](https://skillicons.dev)
+ 
+</div>
 ### 🌐 Web & Frameworks
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
+ 
+<div align="center">
+[![My Skills](https://skillicons.dev/icons?i=react,laravel,nodejs,spring,html,css&theme=dark)](https://skillicons.dev)
+ 
+</div>
 ### ⚙️ DevOps & Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+ 
+<div align="center">
+[![My Skills](https://skillicons.dev/icons?i=docker,linux,git,github,vscode,ubuntu&theme=dark)](https://skillicons.dev)
+ 
+</div>
+
 
 ---
 
