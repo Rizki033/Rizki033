@@ -38,11 +38,11 @@
 ╠══════════════════════════════════════════════════════════╣
 ║  name       : Rizki Abdelhadi                            ║
 ║  alias      : 0xRizki                                    ║
-║  location   : Marrakech, Morocco 🇲🇦                    ║
+║  location   : Marrakech, Morocco 🇲🇦                      ║
 ║  education  : Engineering Degree – IT Security           ║
 ║  focus      : Red Teaming • Bug Bounty • AI Security     ║
 ║  tryhackme  : Top 6% Worldwide 🌍                        ║
-║  status     : [ ACTIVE ]  Open to collaborations        ║
+║  status     : [ ACTIVE ]  Open to collaborations         ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
@@ -103,43 +103,6 @@ Currently building AI-powered security tools and automation frameworks.
 
 ---
 
-## `> cat /experience/log.txt`
-
-```
-[2026-03 → 2026-06] EMAN Aerospace x Université Cadi Ayyad
-  └─ Secure architecture design & vulnerability detection in real environment
-  └─ Attack surface analysis, misconfiguration auditing
-  └─ Agile/KANBAN workflow with aerospace security experts
-
-[2026-03] Smart Engineering & Management (SEM) — Bug Report
-  └─ Discovered & responsibly disclosed a critical vulnerability
-  └─ Received official Security Research Recognition Letter ⭐
-
-[2026-01 → now] HackerOne & Bugcrowd — Bug Bounty Hunter
-  └─ XSS, SQLi, IDOR — active hunting
-  └─ Responsible disclosure & Burp Suite workflows
-
-[2025-01 → now] TryHackMe / HackTheBox / Hackviser — CTF Player
-  └─ Red Team labs, Linux exploitation
-  └─ Ranking: Top 6% Worldwide on TryHackMe 🌍
-```
-
----
-
-## `> ls /projects/`
-
-<div align="center">
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🔍 **OneSec** | Offensive recon automation framework (+20 tools) | `Bash` |
-| 🧠 **NetSentry-AI** | ML-based IDS for malicious traffic classification | `Python` `ML` |
-| 🔬 **NeuroScan AI** | Deep learning model for medical image segmentation | `Python` `DL` |
-
-</div>
-
----
-
 ## `> cat /certifications.txt`
 
 ```
@@ -152,34 +115,6 @@ Currently building AI-powered security tools and automation frameworks.
 
 ---
 
-## `> stats --github`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RIZKI-ABDELHADI&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIZKI-ABDELHADI&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=RIZKI-ABDELHADI&theme=matrix&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=39d353&currStreakLabel=00ff41" width="60%"/>
-
-</div>
-
----
-
-## `> cat /platforms/tryhackme.txt`
-
-<div align="center">
-
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/0xRizki.png)](https://tryhackme.com/p/0xRizki)
-
-**🏆 Top 6% Worldwide**
-
-</div>
-
----
 
 ## `> ping /contact`
 
