@@ -32,6 +32,15 @@
 
 ## `> ls /skills/`
 
+[![My Skills](https://skillicons.dev/icons?i=kali,linux,bash,vim,python,powershell,neovim,regex&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=elasticsearch,grafana,prometheus,cloudflare,aws,azure,gcp,nginx&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,bash,c,java,php,mysql,js,ts,html,css,cs,rust&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,laravel,nodejs,spring,flask,express,tailwind,html,css,nginx&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,linux,git,github,vscode,ubuntu,ansible,terraform,aws,azure&theme=dark)](https://skillicons.dev)
+
+
+---
+
 [![My Skills](https://skillicons.dev/icons?i=kali,linux,bash,vim&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=python,bash,c,java,php,mysql,js,html,css&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=react,laravel,nodejs,spring,html,css&theme=dark)](https://skillicons.dev)
