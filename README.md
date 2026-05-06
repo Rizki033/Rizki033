@@ -5,8 +5,6 @@
 
 </div>
 
-
-
 ---
 
 <!-- IDENTITY CARD -->
@@ -31,27 +29,15 @@
 ---
 
 ## `> ls /skills/`
-
+[![My Skills](https://skillicons.dev/icons?i=react,laravel,nodejs,spring,flask,express,tailwind,html,css,nginx&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=kali,linux,bash,vim,python,powershell,neovim,regex&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=elasticsearch,grafana,prometheus,cloudflare,aws,azure,gcp,nginx&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=python,bash,c,java,php,mysql,js,ts,html,css,cs,rust&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=react,laravel,nodejs,spring,flask,express,tailwind,html,css,nginx&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=docker,linux,git,github,vscode,ubuntu,ansible,terraform,aws,azure&theme=dark)](https://skillicons.dev)
 
 
 ---
 
-## `> ping /contact`
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/rizkiabdelhadi4@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rizkiabdelhadi4@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelhadi-rizki)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RIZKI-ABDELHADI)
-
-</div>
-
----
 
 <div align="center">
 
