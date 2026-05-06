@@ -18,11 +18,11 @@
 ╠══════════════════════════════════════════════════════════╣
 ║  name       : Rizki Abdelhadi                            ║
 ║  alias      : 0xRizki                                    ║
-║  location   : Marrakech, Morocco 🇲🇦                    ║
+║  location   : Marrakech, Morocco 🇲🇦                      ║
 ║  education  : Engineering Degree – IT Security           ║
 ║  focus      : Red Teaming • Bug Bounty • AI Security     ║
-║  tryhackme  : Top 6% Worldwide 🌍                        ║
-║  status     : [ ACTIVE ]  Open to collaborations        ║
+║  tryhackme  : Top 6% Worldwide                           ║
+║  status     : [ ACTIVE ]  Open to collaborations         ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
@@ -46,7 +46,6 @@
 [![Email](https://img.shields.io/badge/rizkiabdelhadi4@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rizkiabdelhadi4@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelhadi-rizki)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RIZKI-ABDELHADI)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/0xRizki)
 
 </div>
 
