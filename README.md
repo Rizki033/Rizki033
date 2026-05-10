@@ -5,8 +5,6 @@
 
 </div>
 
----
-
 <!-- IDENTITY CARD -->
 <div align="center">
 
