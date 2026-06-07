@@ -24,18 +24,6 @@
 
 </div>
 
----
-
-## `> ls /skills/`
-[![My Skills](https://skillicons.dev/icons?i=react,laravel,nodejs,spring,flask,express,tailwind,html,css,nginx&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=kali,linux,bash,vim,python,powershell,neovim,regex&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=elasticsearch,grafana,prometheus,cloudflare,aws,azure,gcp,nginx&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=python,bash,c,java,php,mysql,js,ts,html,css,cs,rust&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=docker,linux,git,github,vscode,ubuntu,ansible,terraform,aws,azure&theme=dark)](https://skillicons.dev)
-
-
----
-
 
 <div align="center">
 
@@ -48,9 +36,4 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=100&section=footer" width="100%"/>
 
-</div>
-
-<!-- Profile view counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RIZKI-ABDELHADI&color=00ff41&style=flat-square&label=PROFILE+VIEWS"/>
 </div>
