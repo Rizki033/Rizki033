@@ -1,10 +1,3 @@
-<div align="center">
-
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=0xRizki&fontSize=80&fontColor=00ff41&fontAlignY=38&desc=Rizki%20Abdelhadi%20•%20Cybersecurity%20Engineer&descAlignY=60&descColor=39d353&animation=twinkling" width="100%"/>
-
-</div>
-
 <!-- IDENTITY CARD -->
 <div align="center">
 
@@ -33,7 +26,5 @@
 ║                                          — Kali Linux      ║
 ╚════════════════════════════════════════════════════════════╝
 ```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
