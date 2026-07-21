@@ -1,122 +1,142 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d3b0d,100:000000&height=220&section=header&text=0xRizki&fontSize=70&fontColor=00FF41&animation=blink&fontAlignY=38&desc=%3E%20SYSTEM%20BREACHED%20%7C%20ACCESS%20GRANTED&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0000,100:000000&height=220&section=header&text=0xRizki&fontSize=70&fontColor=FF3131&animation=blink&fontAlignY=38&desc=%22hello%2C%20friend.%22&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1800&pause=600&color=00FF41&center=true&vCenter=true&multiline=true&width=800&height=140&lines=Initializing+connection...+%5BOK%5D;Bypassing+firewall...........+%5BOK%5D;Decrypting+payload...........+%5BOK%5D;Access+Level%3A+ROOT;Welcome%2C+0xRizki." alt="Boot Sequence" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=900&color=FF3131&center=true&vCenter=true&width=820&lines=Hello%2C+friend.;Hello%2C+friend%3F;That+is+lame.+Maybe+I+should+give+you+a+name.;Call+me+0xRizki.;Red+Teamer+%7C+Bug+Bounty+Hunter+%7C+AI+Security;We+are+fsociety.+We+are+finally+awake." alt="monologue" />
 </a>
 
 </div>
 
 <br/>
 
+<div align="center">
+
 ```
-╔══════════════════════════════════════════════════════════╗
-║  TARGET PROFILE                                          ║
-╠══════════════════════════════════════════════════════════╣
-║  name       : Rizki Abdelhadi                            ║
-║  alias      : 0xRizki                                    ║
-║  location   : Marrakech, Morocco 🇲🇦                      ║
-║  education  : Engineering Degree – IT Security            ║
-║  focus      : Red Teaming • Bug Bounty • AI Security      ║
-║  tryhackme  : Top 6% Worldwide                            ║
-║  status     : [ ACTIVE ]  Open to collaborations          ║
-╚══════════════════════════════════════════════════════════╝
+              _____
+           .-"     "-.
+          /   o   o   \
+         |      ^      |
+         |   \_____/   |
+          \           /
+           '-._____.-'
+
+          [ f s o c i e t y ]
+```
+
+</div>
+
+```
+[ENCRYPTED FILE — fsociety_archive/subject_0x52.dat]
+──────────────────────────────────────────────────────
+  DECRYPTING...  ████████████████████████████  100%
+──────────────────────────────────────────────────────
+  ALIAS.........: 0xRizki
+  REAL NAME.....: Rizki Abdelhadi
+  LOCATION......: Marrakech, Morocco 🇲🇦
+  EDUCATION.....: Engineering Degree – IT Security
+  SPECIALTY.....: Red Teaming • Bug Bounty • AI Security
+  RANKING.......: TryHackMe — Top 6% Worldwide
+  STATUS........: [ AWAKE ]  Open to collaborations
+──────────────────────────────────────────────────────
+  "Control is an illusion, sometimes the operator
+   must lose control."
+──────────────────────────────────────────────────────
 ```
 
 <div align="center">
 
-```
-    .-.
-   (o o)  root access granted
-   | O \
-    \   \
-     `~~~'
-```
-
-![Profile Views](https://komarev.com/ghpvc/?username=0xRizki&label=SIGNAL%20INTERCEPTED&color=00FF41&style=for-the-badge&labelColor=000000)
-![Status](https://img.shields.io/badge/STATUS-ACTIVE-00FF41?style=for-the-badge&labelColor=000000)
-![Open to Work](https://img.shields.io/badge/OPEN%20TO-COLLAB-00FF41?style=for-the-badge&labelColor=000000)
+![Profile Views](https://komarev.com/ghpvc/?username=0xRizki&label=SIGNAL%20INTERCEPTED&color=FF3131&style=for-the-badge&labelColor=000000)
+![Status](https://img.shields.io/badge/STATUS-AWAKE-FF3131?style=for-the-badge&labelColor=000000)
+![Open to Work](https://img.shields.io/badge/OPEN%20TO-COLLAB-FF3131?style=for-the-badge&labelColor=000000)
 
 </div>
 
 <br/>
 
 ```bash
-root@0xRizki:~# cat about.txt
+root@fsociety:~# cat manifesto.txt
 ```
 
 ```yaml
+codename: "0xRizki"
+affiliation: "fsociety (honorary)"
 mission:
-  - Simulate real-world adversaries to expose what defenders miss
-  - Chase critical vulnerabilities across web, cloud & AI attack surfaces
-  - Turn offensive findings into defensive playbooks
+  - Take down real-world "Evil Corps" — ethically, with a signed scope
+  - Expose the vulnerabilities corporations hope nobody finds
+  - Turn chaos into responsible disclosure
 current_objectives:
   - Advancing in Red Team certifications (OSCP track)
   - Researching prompt injection & LLM supply-chain attacks
   - Climbing the TryHackMe & HackTheBox leaderboards
-fun_fact: "I break things professionally so you don't have to break them accidentally."
+philosophy: "Democracy has been hacked. So has my sense of scope-creep."
+status: "AWAKE"
 ```
+
+> *"Are you even real? ... Neither am I."*
+> *"We are all Mr. Robot."*
 
 <br/>
 
 ```bash
-root@0xRizki:~# nmap -sC -sV --script=skills.nse localhost
+root@fsociety:~# nmap -sC -sV --script=skills.nse localhost
 ```
 
 <div align="center">
 
 **Offensive Security**
 
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF41&labelColor=000000)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=00FF41&labelColor=000000)
-![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=00FF41&labelColor=000000)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=00FF41&labelColor=000000)
-![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00FF41&labelColor=000000)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=FF3131&labelColor=000000)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=FF3131&labelColor=000000)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=FF3131&labelColor=000000)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=FF3131&labelColor=000000)
+![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=FF3131&labelColor=000000)
 
 **Languages & Scripting**
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41&labelColor=000000)
-![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00FF41&labelColor=000000)
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00FF41&labelColor=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41&labelColor=000000)
-![PowerShell](https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=powershell&logoColor=00FF41&labelColor=000000)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF3131&labelColor=000000)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=FF3131&labelColor=000000)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=FF3131&labelColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FF3131&labelColor=000000)
+![PowerShell](https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=powershell&logoColor=FF3131&labelColor=000000)
 
 **Platforms & Cloud**
 
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41&labelColor=000000)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF41&labelColor=000000)
-![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=00FF41&labelColor=000000)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41&labelColor=000000)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FF3131&labelColor=000000)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=FF3131&labelColor=000000)
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=FF3131&labelColor=000000)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FF3131&labelColor=000000)
 
 **AI Security**
 
-![OpenAI](https://img.shields.io/badge/LLM%20Security-000000?style=for-the-badge&logo=openai&logoColor=00FF41&labelColor=000000)
-![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=00FF41&labelColor=000000)
+![OpenAI](https://img.shields.io/badge/LLM%20Security-000000?style=for-the-badge&logo=openai&logoColor=FF3131&labelColor=000000)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=FF3131&labelColor=000000)
 
 </div>
 
 <br/>
 
 ```bash
-root@0xRizki:~# ./exfiltrate_stats.sh --target=github
+root@fsociety:~# ./exfiltrate_stats.sh --target=github
 ```
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=0xRizki&show_icons=true&count_private=true&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=39ff6a&bg_color=000000"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xRizki&layout=compact&hide_border=true&title_color=00FF41&text_color=39ff6a&bg_color=000000"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=0xRizki&show_icons=true&count_private=true&hide_border=true&title_color=FF3131&icon_color=FF3131&text_color=eaeaea&bg_color=000000"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xRizki&layout=compact&hide_border=true&title_color=FF3131&text_color=eaeaea&bg_color=000000"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xRizki&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=39ff6a&currStreakNum=39ff6a&sideNums=39ff6a&dates=39ff6a" alt="streak stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xRizki&hide_border=true&background=000000&ring=FF3131&fire=FF3131&currStreakLabel=FF3131&sideLabels=eaeaea&currStreakNum=eaeaea&sideNums=eaeaea&dates=eaeaea" alt="streak stats"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=0xRizki&theme=matrix&no-frame=true&margin-w=8&row=1" alt="trophies"/>
+
+<sub>⚠️ trophies stay matrix-green on purpose — the branding is red, the terminal is always green.</sub>
 
 </div>
 
 <br/>
 
 ```bash
-root@0xRizki:~# tail -f /var/log/contributions.log
+root@fsociety:~# tail -f /var/log/contributions.log
 ```
 
 <div align="center">
@@ -136,14 +156,15 @@ root@0xRizki:~# tail -f /var/log/contributions.log
 <div align="center">
 
 <details>
-<summary><code>root@0xRizki:~# cat classified.txt</code></summary>
+<summary><code>root@fsociety:~# cat classified.txt</code></summary>
 <br/>
 
 ```
 [REDACTED] ...................... [REDACTED]
-Threat level: curious, not malicious.
-Weapon of choice: a terminal and too much coffee.
-If you found this, you already know how to read between the lines. 🕵️
+Are you even real? Is any of this real?
+Weapon of choice: a terminal, a scope document, and too much coffee.
+If you're reading this, you already know how to read between the lines.
+Whether you like it or not... we're already in this together.
 ```
 
 </details>
@@ -153,16 +174,16 @@ If you found this, you already know how to read between the lines. 🕵️
 <br/>
 
 ```bash
-root@0xRizki:~# ./connect.sh --secure
+root@fsociety:~# ./contact.sh --secure --trust=nobody
 ```
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00FF41&labelColor=000000)](https://twitter.com/YOUR-HANDLE)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=00FF41&labelColor=000000)](https://tryhackme.com/p/YOUR-THM-HANDLE)
-[![HackTheBox](https://img.shields.io/badge/Hack%20The%20Box-000000?style=for-the-badge&logo=hackthebox&logoColor=00FF41&labelColor=000000)](https://app.hackthebox.com/profile/YOUR-ID)
-[![Gmail](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000)](mailto:dxp6951@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF3131&labelColor=000000)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=FF3131&labelColor=000000)](https://twitter.com/YOUR-HANDLE)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=FF3131&labelColor=000000)](https://tryhackme.com/p/YOUR-THM-HANDLE)
+[![HackTheBox](https://img.shields.io/badge/Hack%20The%20Box-000000?style=for-the-badge&logo=hackthebox&logoColor=FF3131&labelColor=000000)](https://app.hackthebox.com/profile/YOUR-ID)
+[![Gmail](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF3131&labelColor=000000)](mailto:dxp6951@gmail.com)
 
 </div>
 
@@ -170,8 +191,8 @@ root@0xRizki:~# ./connect.sh --secure
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%3E+connection+closed.;%3E+wiping+traces...+done.;%3E+stay+ethical.+stay+curious." alt="footer typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FF3131&center=true&vCenter=true&width=650&lines=%3E+connection+closed.;%3E+wiping+traces...+done.;%3E+hello%2C+friend.+it+is+still+just+us." alt="footer typing"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d3b0d,100:000000&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0000,100:000000&height=120&section=footer" width="100%"/>
 
 </div>
