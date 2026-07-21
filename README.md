@@ -8,22 +8,6 @@
 
 </div>
 
-```
-[ENCRYPTED FILE — fsociety_archive/subject_0x52.dat]
-──────────────────────────────────────────────────────
-  DECRYPTING...  ████████████████████████████  100%
-──────────────────────────────────────────────────────
-  ALIAS.........: 0xRizki
-  REAL NAME.....: Rizki Abdelhadi
-  LOCATION......: Marrakech, Morocco 🇲🇦
-  EDUCATION.....: Engineering Degree – IT Security
-  SPECIALTY.....: Red Teaming • Bug Bounty • AI Security
-  STATUS........: [ AWAKE ]  Open to collaborations
-──────────────────────────────────────────────────────
-  "Control is an illusion, sometimes the operator must lose control."
-──────────────────────────────────────────────────────
-```
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FF3131&center=true&vCenter=true&width=650&lines=%3E+connection+closed.;%3E+wiping+traces...+done.;%3E+hello%2C+friend.+it+is+still+just+us." alt="footer typing"/>
