@@ -8,24 +8,6 @@
 
 </div>
 
-<br/>
-
-<div align="center">
-
-```
-              _____
-           .-"     "-.
-          /   o   o   \
-         |      ^      |
-         |   \_____/   |
-          \           /
-           '-._____.-'
-
-          [ f s o c i e t y ]
-```
-
-</div>
-
 ```
 [ENCRYPTED FILE — fsociety_archive/subject_0x52.dat]
 ──────────────────────────────────────────────────────
