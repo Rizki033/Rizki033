@@ -20,16 +20,14 @@
   SPECIALTY.....: Red Teaming • Bug Bounty • AI Security
   STATUS........: [ AWAKE ]  Open to collaborations
 ──────────────────────────────────────────────────────
-  "Control is an illusion, sometimes the operator
-   must lose control."
+  "Control is an illusion, sometimes the operator must lose control."
 ──────────────────────────────────────────────────────
 ```
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=0xRizki&label=SIGNAL%20INTERCEPTED&color=FF3131&style=for-the-badge&labelColor=000000)
-![Status](https://img.shields.io/badge/STATUS-AWAKE-FF3131?style=for-the-badge&labelColor=000000)
-![Open to Work](https://img.shields.io/badge/OPEN%20TO-COLLAB-FF3131?style=for-the-badge&labelColor=000000)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FF3131&center=true&vCenter=true&width=650&lines=%3E+connection+closed.;%3E+wiping+traces...+done.;%3E+hello%2C+friend.+it+is+still+just+us." alt="footer typing"/>
+
 
 </div>
 
