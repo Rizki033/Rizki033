@@ -38,8 +38,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FF3131&center=true&vCenter=true&width=650&lines=%3E+connection+closed.;%3E+wiping+traces...+done.;%3E+hello%2C+friend.+it+is+still+just+us." alt="footer typing"/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0000,100:000000&height=120&section=footer" width="100%"/>
 
 </div>
