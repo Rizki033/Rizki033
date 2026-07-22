@@ -12,11 +12,6 @@
 
 </div>
 
-<div align="center">
-
-![divider](https://img.shields.io/badge/%3E%3E%3E_STATIC_%3C%3C%3C-FF3131?style=flat-square)
-
-</div>
 
 <br/>
 
