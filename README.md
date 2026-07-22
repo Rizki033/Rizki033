@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0000,100:000000&height=220&section=header&text=0xRizki&fontSize=70&fontColor=FF3131&animation=blink&fontAlignY=38&desc=%22hello%2C%20friend.%22&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=900&color=FF3131&center=true&vCenter=true&width=820&lines=Hello%2C+friend.;Hello%2C+friend%3F;That+is+lame.+Maybe+I+should+give+you+a+name.;Call+me+0xRizki.;Red+Teamer+%7C+Bug+Bounty+Hunter+%7C+AI+Security;We+are+fsociety.+We+are+finally+awake." alt="monologue" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=900&color=FF3131&center=true&vCenter=true&width=820&lines=Hello%2C+friend.;Hello%2C+friend%3F;That+is+lame.+Maybe+I+should+give+you+a+name.;Call+me+0xRizki.;Red+Teamer+%7C+Bug+Bounty+Hunter+%7C+AI+Security" alt="monologue" />
 </a>
 
 <br/>
